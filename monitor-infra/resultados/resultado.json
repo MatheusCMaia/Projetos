@@ -1,0 +1,25 @@
+[
+    {
+        "host": "1.1.1.1",
+        "status": "online",
+        "tempo_ms": 3113.2,
+        "data_hora": "2026-09-19 20:53:38"
+    },
+    {
+        "host": "8.8.8.8",
+        "status": "online",
+        "tempo_ms": 3109.61,
+        "data_hora": "2026-09-19 20:53:41"
+    },
+    {
+        "host": "google.com",
+        "status": "online",
+        "tempo_ms": 3114.59,
+        "data_hora": "2026-09-19 20:53:45"
+    },
+    {
+        "host": "192.0.2.1",
+        "status": "offline",
+        "data_hora": "2026-09-19 20:53:48"
+    }
+]
