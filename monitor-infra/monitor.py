@@ -4,8 +4,9 @@ import logging
 from pathlib import Path
 import time
 from datetime import datetime
+import requests
 
-
+url_webhook = ""
 
 pasta_logs = Path("logs")
 pasta_logs.mkdir(exist_ok=True)
@@ -59,6 +60,10 @@ for host in hosts:
                 "data_hora": data_hora
             }
         )
+        dados = {
+            "content": f"🚨 ALERTA!\n\nHost: {host}\nStatus: OFFLINE\nData: {data_hora}"
+        }
+        requests.post(url_webhook, json=dados)
 
 total = online + offline
 disponibilidade = (online/total) * 100

@@ -2,24 +2,24 @@
     {
         "host": "1.1.1.1",
         "status": "online",
-        "tempo_ms": 3113.2,
-        "data_hora": "2026-09-19 20:53:38"
+        "tempo_ms": 3100.68,
+        "data_hora": "2026-09-21 11:08:10"
     },
     {
         "host": "8.8.8.8",
         "status": "online",
-        "tempo_ms": 3109.61,
-        "data_hora": "2026-09-19 20:53:41"
+        "tempo_ms": 3110.75,
+        "data_hora": "2026-09-21 11:08:13"
     },
     {
         "host": "google.com",
         "status": "online",
-        "tempo_ms": 3114.59,
-        "data_hora": "2026-09-19 20:53:45"
+        "tempo_ms": 3127.12,
+        "data_hora": "2026-09-21 11:08:16"
     },
     {
         "host": "192.0.2.1",
         "status": "offline",
-        "data_hora": "2026-09-19 20:53:48"
+        "data_hora": "2026-09-21 11:08:19"
     }
 ]
