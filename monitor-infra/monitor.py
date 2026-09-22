@@ -4,7 +4,7 @@ import logging
 from pathlib import Path
 import time
 from datetime import datetime
-import requests
+##import requests
 
 url_webhook = ""
 
@@ -63,7 +63,7 @@ for host in hosts:
         dados = {
             "content": f"🚨 ALERTA!\n\nHost: {host}\nStatus: OFFLINE\nData: {data_hora}"
         }
-        requests.post(url_webhook, json=dados)
+        ##requests.post(url_webhook, json=dados)
 
 total = online + offline
 disponibilidade = (online/total) * 100

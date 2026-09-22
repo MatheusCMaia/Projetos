@@ -115,3 +115,11 @@
 2026-09-21 11:08:19,691 - INFO - Host google.com está acessível!
 2026-09-21 11:08:19,691 - INFO - Iniciando monitoramento do host192.0.2.1
 2026-09-21 11:08:38,265 - INFO - Host 192.0.2.1 está inacessível!
+2026-09-21 13:47:59,294 - INFO - Iniciando monitoramento do host1.1.1.1
+2026-09-21 13:48:02,351 - INFO - Host 1.1.1.1 está acessível!
+2026-09-21 13:48:02,351 - INFO - Iniciando monitoramento do host8.8.8.8
+2026-09-21 13:48:05,434 - INFO - Host 8.8.8.8 está acessível!
+2026-09-21 13:48:05,434 - INFO - Iniciando monitoramento do hostgoogle.com
+2026-09-21 13:48:08,578 - INFO - Host google.com está acessível!
+2026-09-21 13:48:08,578 - INFO - Iniciando monitoramento do host192.0.2.1
+2026-09-21 13:48:27,430 - INFO - Host 192.0.2.1 está inacessível!
